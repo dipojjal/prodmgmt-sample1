@@ -1,1 +1,1 @@
-web: node vendor/bootstrap/css/bootstrap.min.css
+web: html index.html
